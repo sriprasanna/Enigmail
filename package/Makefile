@@ -29,10 +29,14 @@ MODFILES = \
            gpgAgentHandler.jsm \
            keyManagement.jsm \
            pipeConsole.jsm \
+           encryption.jsm \
+           decryption.jsm \
+           data.jsm \
            enigmailCore.jsm \
            enigmailCommon.jsm \
            enigmailConvert.jsm \
            enigmailErrorHandling.jsm \
+           enigmailProtocolHandler.jsm \
            passwordCheck.jsm \
            installGnuPG.jsm \
            fixExchangeMsg.jsm \
